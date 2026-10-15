@@ -1,0 +1,8 @@
+{
+  "env_id": "InvertedPendulum-v5",
+  "epochs": 50,
+  "steps_per_epoch": 4000,
+  "seed": 0,
+  "gamma": 0.99,
+  "lam": 0.95
+}
