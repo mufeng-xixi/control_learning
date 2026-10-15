@@ -1,0 +1,9 @@
+{
+  "env_id": "InvertedPendulum-v5",
+  "episodes": 100,
+  "mean_return": 1000.0,
+  "std_return": 0.0,
+  "min_return": 1000.0,
+  "max_return": 1000.0,
+  "mean_length": 1000.0
+}
