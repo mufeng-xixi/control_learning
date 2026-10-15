@@ -1,9 +1,0 @@
-{
-  "env_id": "Hopper-v5",
-  "episodes": 100,
-  "mean_return": 3157.6008210841865,
-  "std_return": 136.93958061962206,
-  "min_return": 2703.8979267055206,
-  "max_return": 3350.514326910941,
-  "mean_length": 967.03
-}
